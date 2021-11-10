@@ -1,2 +1,2 @@
-Title: Git for our
+Title: Git for everyone.
 Subtitle: Hello what's going on?
